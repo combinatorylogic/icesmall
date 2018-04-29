@@ -1,4 +1,4 @@
-update=Thu 14 Apr 2016 15:37:16 BST
+update=Sunday, 29 April 2018 'pmt' 18:39:35
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../KiCad-Schematic-Symbol-Libraries
+LibDir=KiCad-Schematic-Symbol-Libraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
