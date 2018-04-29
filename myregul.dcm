@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+#
+$CMP LP3990MF_1V2
+D LP3990MF 150mA Regulator   tiny SOT-23 5-leads package
+K REGUL POWER
+F http://www.ti.com/lit/ds/symlink/lp3990.pdf
+$ENDCMP
+#
+#
+#End Doc Library
